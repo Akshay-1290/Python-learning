@@ -9,7 +9,5 @@ print(add(a,b))
 def greeting(username):
     print(f"hi {username}")
     print("have a good day")
-
-
 username = input("Enter you name :")
 print(greeting(username))

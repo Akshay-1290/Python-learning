@@ -10,9 +10,10 @@ print("apple"in fruits)
 for x in fruits:
     print(x)
     print("------")
-fruitss = {"apple","banana","orange","melon"}
+fruitss = {"apple","banana","orange","melon","melon"}
 #print(dir(fruits)) to see helpful directories used for sets
 #print(help(fruits)) to get help regarding directories
 fruitss.add("nga")
 for y in fruitss:
     print(y)
+#touples r like list just faster
