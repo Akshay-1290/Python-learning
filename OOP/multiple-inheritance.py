@@ -45,3 +45,5 @@ athrv=athrb("Atharv","Human")
 athrv.is_alive()
 athrv.cate()
 athrv.human()
+
+#above somehow both doing same work but can do different according to use
